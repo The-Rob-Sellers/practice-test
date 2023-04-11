@@ -46,6 +46,6 @@ for (let i = 0; i < cases.length; i++) {
 for (let i = 0; i < cases.length; i++) {
   const currentCase = cases[i];
   if (currentCase.releaseYear === 1903) {
-    console.log(`${currentCase.title}`);
+    console.log(`${currentCase.title} ${currentCase.releaseYear}`);
   }
 }
