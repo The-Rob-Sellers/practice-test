@@ -1,1 +1,13 @@
-/* YOUR STYLES HERE */
+img {
+    height: 250px;
+}
+
+h6 {
+    color: #ffdb6d;
+    text-align: center;
+    border-radius: 3px;
+    border-color: #ffdb6d;
+    padding: 1em;
+    background-color: #1d2531;
+
+}
